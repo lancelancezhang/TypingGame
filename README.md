@@ -27,5 +27,5 @@ The biggest challenge of the program was understanding the relationship between 
 
 ## Acknowlegments
 
-* (Pygame documentation)[https://www.pygame.org/docs/]
-* (Inspiration)[https://play.typeracer.com/]
+* [Pygame documentation](https://www.pygame.org/docs/)
+* [Inspiration](https://play.typeracer.com/)
