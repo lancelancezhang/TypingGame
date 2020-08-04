@@ -4,7 +4,19 @@ The application is a simple typing game that tracks the user's typing speed - wr
 
 ## Playing the Game
 
-Screenshots to go here
+Starting the game gets us here - as soon as the bar is clicked the timer is started:
+
+![Starting Image](https://github.com/lancelancezhang/TypingGame/blob/master/S1.JPG)
+
+When you correctly finish typing the line of text this is presented - the man runs to the end of the finishing line as more of the line is correctly typed:
+
+![Running Mid Image](https://github.com/lancelancezhang/TypingGame/blob/master/s3.JPG)
+
+![Finishing Image](https://github.com/lancelancezhang/TypingGame/blob/master/s2.JPG)
+
+## Reflection
+
+The biggest challenge of the program was understanding the relationship between the front-end and back-end of the game. I learned a lot about user interfaces and understanding how the user interacts with the program in order for the program to work as intended. I am continuing to make changes to this as I develop the program further.
 
 ## Installation
 
